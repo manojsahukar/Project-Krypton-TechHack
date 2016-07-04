@@ -1,2 +1,4 @@
 # Project-Krypton-TechHack
-Confederate Army Cipher Disk - Civil War Encryption Wheels: https://www.youtube.com/watch?v=y94Mfvr2pKI
+
+It's a software implementation of Confederate Army Cipher Disk programmed using 'C'.
+To know more about confederate army cipher disk visit: https://www.youtube.com/watch?v=y94Mfvr2pKI
