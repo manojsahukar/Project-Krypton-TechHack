@@ -5,7 +5,7 @@ void main()
 char b[26],code[3],msg[30];
 int i,n,j,index;
 
-puts("enter the 3 letter code:__=__");
+puts("Enter the 3 letter code in CAPs:__=__");
 gets(code);
 
 n=code[0]-65;
@@ -104,8 +104,9 @@ puts("\n\n");
 puts("Enter the msg to encode or decode");
 gets(msg);
 
-i=0;
+puts("\n\n");
 
+i=0;
 while(msg[i]!=NULL)
 {
 index=msg[i]-65;
