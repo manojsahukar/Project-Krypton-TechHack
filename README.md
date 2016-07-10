@@ -5,4 +5,4 @@ To know more about this cipher disk visit: https://www.youtube.com/watch?v=y94Mf
 
 The inner ring of this disk implementation has alphabets in reverse order as in: https://www.britannica.com/topic/cipher-disk
 
-To compile and execute in online visit: http://www.tutorialspoint.com/compile_c_online.php
+To compile and execute it online, visit: http://www.tutorialspoint.com/compile_c_online.php
