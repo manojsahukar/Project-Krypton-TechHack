@@ -1,6 +1,6 @@
 {
   "name": "Project-krypton-techhack",
   "tagline": "Confederate Army Cipher Disk - Civil War Encryption Wheels: https://www.britannica.com/topic/cipher-disk",
-  "body": "# Project-Krypton-TechHack\r\n\r\nIt's a software implementation of 'Confederate Army Cipher Disk' programmed using 'C'.\r\nTo know more about this cipher disk visit: https://www.youtube.com/watch?v=y94Mfvr2pKI\r\n\r\nThe inner ring of this disk implementation has alphabets in reverse order as in: https://www.britannica.com/topic/cipher-disk\r\n\r\nTo compile and execute in online visit: http://www.tutorialspoint.com/compile_c_online.php\r\n\r\n",
+  "body": "# Project-Krypton-TechHack\r\n\r\nIt's a software implementation of 'Confederate Army Cipher Disk' programmed using 'C'.\r\nTo know more about this cipher disk visit: https://www.youtube.com/watch?v=y94Mfvr2pKI\r\n\r\nThe inner ring of this disk implementation has alphabets in reverse order as in: https://www.britannica.com/topic/cipher-disk\r\n\r\nTo compile and execute it online visit: http://www.tutorialspoint.com/compile_c_online.php\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
